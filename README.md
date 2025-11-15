@@ -19,3 +19,5 @@ I'm Mohit_Ramteke
 
 💻 My Skills:
 Power BI    MySQL    Microsoft Excel    Python    NumPy    Pandas    Matplotlib    Plotly
+
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34352f36372f61382f34353637613833376235343564323262396463646538316363643938623730652e676966](https://github.com/user-attachments/assets/41d16ded-f1f4-4a54-b426-95d1d179df78)
